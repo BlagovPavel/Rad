@@ -1,0 +1,7 @@
+C:\Users\blago\source\repos\Радиан\Радиан\bin\Debug\Радиан.exe.config
+C:\Users\blago\source\repos\Радиан\Радиан\bin\Debug\Радиан.exe
+C:\Users\blago\source\repos\Радиан\Радиан\bin\Debug\Радиан.pdb
+C:\Users\blago\source\repos\Радиан\Радиан\obj\Debug\Радиан.csprojAssemblyReference.cache
+C:\Users\blago\source\repos\Радиан\Радиан\obj\Debug\Радиан.csproj.CoreCompileInputs.cache
+C:\Users\blago\source\repos\Радиан\Радиан\obj\Debug\Радиан.exe
+C:\Users\blago\source\repos\Радиан\Радиан\obj\Debug\Радиан.pdb
